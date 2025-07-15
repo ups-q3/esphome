@@ -45,7 +45,7 @@ const uint8_t TM1637_ASCII_TO_RAW[] PROGMEM = {
     0b10000000,           // '.', ord 0x2E
     TM1637_UNKNOWN_CHAR,  // '/', ord 0x2F
     0b10000001,           // '0', ord 0x30
-    0b11001101,           // '1', ord 0x31
+    0b11001111,           // '1', ord 0x31
     0b10010010,           // '2', ord 0x32
     0b10000110,           // '3', ord 0x33
     0b11001100,           // '4', ord 0x34
